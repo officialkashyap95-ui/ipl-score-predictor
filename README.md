@@ -40,7 +40,3 @@ Then open **http://localhost:8501**
 - **Training Data:** 134,190 deliveries from 1,158 matches
 - **Features:** Batting team, bowling team, venue, current over, cumulative score, wickets fallen, run rate, last-5-overs runs
 
-## 🌐 Deploy Free Online
-1. Push files to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect repo → Deploy!
