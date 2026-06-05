@@ -28,11 +28,6 @@ pip install -r requirements.txt
 python generate_and_train.py
 ```
 
-### Step 4 – Launch the app
-```bash
-streamlit run app.py
-```
-Then open **http://localhost:8501**
 
 ## 🤖 Model Details
 - **Algorithm:** Random Forest Regressor
@@ -40,3 +35,14 @@ Then open **http://localhost:8501**
 - **Training Data:** 134,190 deliveries from 1,158 matches
 - **Features:** Batting team, bowling team, venue, current over, cumulative score, wickets fallen, run rate, last-5-overs runs
 
+
+
+## 🚀 Live Demo
+
+> 🏏 Try the app live — no installation needed!
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ipl-score-predictor-ai.streamlit.app)
+
+**👉 [https://ipl-score-predictor-ai.streamlit.app](https://ipl-score-predictor-ai.streamlit.app)**
+
+---
