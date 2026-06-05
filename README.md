@@ -41,8 +41,6 @@ python generate_and_train.py
 
 > 🏏 Try the app live — no installation needed!
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ipl-score-predictor-ai.streamlit.app)
-
 **👉 [https://ipl-score-predictor-ai.streamlit.app](https://ipl-score-predictor-ai.streamlit.app)**
 
 ---
